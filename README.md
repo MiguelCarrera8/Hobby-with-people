@@ -1,7 +1,7 @@
 # Deporte con amigos // Deporteacompañado // Deportejuntos // Hobby with people
 
 ### Miguel Ángel Carrera Cebrián
-####Introducción del proyecto
+#### Introducción del proyecto
 La idea de este proyecto es la realización de una aplicación Android e IOS en la cual puedas buscar gente para hacer deporte acompañado.
 
 #### Finalidad
