@@ -15,3 +15,8 @@ Para la base de datos usare mysql, para el backend Laravel y para el frontend Io
 
 #### Planificación
 Respecto a la planificación intentaré hacer la parte de frontend y cuando esté terminada realizaré la parte de backend y base de datos. Para la realización del proyecto estimo que a principios de Junio estará realizado el proyecto, empezando a mediados de Marzo.
+
+
+# Laravel del proyecto
+
+https://github.com/MiguelCarrera8/hwp-laravel
