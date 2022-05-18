@@ -20,3 +20,8 @@ Respecto a la planificación intentaré hacer la parte de frontend y cuando est�
 # Laravel del proyecto
 
 https://github.com/MiguelCarrera8/hwp-laravel
+
+
+# Ionic del proyecto
+
+https://github.com/MiguelCarrera8/app-hobbywithpeople
