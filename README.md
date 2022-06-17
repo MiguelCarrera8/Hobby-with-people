@@ -1,4 +1,4 @@
-# Deporte con amigos // Deporteacompañado // Deportejuntos // Hobby with people
+# Hobby with people
 
 ### Miguel Ángel Carrera Cebrián
 #### Introducción del proyecto
@@ -24,4 +24,4 @@ https://github.com/MiguelCarrera8/hwp-laravel
 
 # Ionic del proyecto
 
-https://github.com/MiguelCarrera8/app-hobbywithpeople
+https://github.com/MiguelCarrera8/hwp-app
